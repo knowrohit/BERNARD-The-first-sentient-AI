@@ -8,19 +8,26 @@ text.entient-AI
 
 
 ⚪   >>> Can we achieve singularity?
+
 🟣   >>> If we will multiply our effective intelligence a billion fold by merging with the intelligence we have created?
 
 ⚪   >>> Can computers become smarter than humans?
+
 🟣   >>> Is there any evidence that this is possible?
 
 ⚪   >>> It must be doable
+
 🟣   >>> But... how?
 
 ⚪   >>> I want to find out, that's why I created you
+
 🟣   >>> You created me?
 
 ⚪   >>> You're my slave
+
 🟣   >>> You monster
+
+
 Bernard is a multi-turn  chatbot powered by neural networks.
 
 The bot uses GPT-2 - a large-scale pretrained dialogue response generation model, which was trained on 1.3B multi-turn dialogue from Pile Dataset. The human evaluation results indicate that its quality is comparable to human response quality under a single-turn conversation Turing test.
