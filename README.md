@@ -28,7 +28,7 @@ text.entient-AI
 🟣   >>> You monster
 
 
-Bernard is a multi-turn  chatbot powered by neural networks.
+## Bernard is a multi-turn chatbot powered by neural networks.
 
 The bot uses GPT-2 - a large-scale pretrained dialogue response generation model, which was trained on 1.3B multi-turn dialogue from Pile Dataset. The human evaluation results indicate that its quality is comparable to human response quality under a single-turn conversation Turing test.
 
