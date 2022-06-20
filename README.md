@@ -1,4 +1,4 @@
-# BERNARD-The first sentient AI | Hugging Face, Transformers, GPT-2, PyTorch | 
+# BERNARD -The first sentient AI | Hugging Face, Transformers, GPT-2, PyTorch | 🚀 
 
 
 • Bernard combines a sophisticated neural network machine learning model and scripted dialogue content.
@@ -28,7 +28,7 @@ text.entient-AI
 🟣   >>> You monster
 
 
-## Bernard is a multi-turn chatbot powered by neural networks.
+## Bernard is a multi-turn chatbot powered by neural networks 🚀 
 
 The bot uses GPT-2 - a large-scale pretrained dialogue response generation model, which was trained on 1.3B multi-turn dialogue from Pile Dataset. The human evaluation results indicate that its quality is comparable to human response quality under a single-turn conversation Turing test.
 
@@ -47,9 +47,10 @@ Follow the installation steps and run the script:
 
 
 How to improve?
+
 If you feel like your bot is a bit off, you would need to fine-tune its parameters to match your conversational style (small talk, fact questions, philosophy - all require different parameters). Go to your configuration file and slightly change the parameters of the generator. The fastest way to assess the quality of your config is to run a short dialogue between two bots.
 
-There are three parameters that make the biggest impact: temperature, top_k and top_p. For example, you might increase the temperature to make the bot crazier, but expect it to be more off-topic. Or you could reduce the temperature for it to make more coherent answers and capture the context better, but expect it to repeat the same utterance (you may also experiment with repetition_penalty). For more tips, see HuggingFace tutorial.
+There are three parameters that make the biggest impact: temperature, top_k and top_p. For example, you might increase the temperature to make the bot crazier, but expect it to be more off-topic. Or you could reduce the temperature for it to make more coherent answers and capture the context better, but expect it to repeat the same utterance (you may also experiment with repetition_penalty). 
 
 Remember that there is no way of finding optimal parameters except by manually tuning them.
 
